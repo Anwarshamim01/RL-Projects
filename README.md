@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Drone Navigation in 3D Grid World using Deep Q-Learning (DQN)"
-author: "Your Name"
+author: Anwar Shamim
 date: "Last Updated: `r Sys.Date()`"
 output:
   html_document:
